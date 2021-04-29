@@ -37,7 +37,7 @@ function Navigation(props) {
                 }`}
               >
                 <Link class="nav-link" to="/contact">
-                  Contact
+                  Braindump
                 </Link>
               </li>
             </ul>
