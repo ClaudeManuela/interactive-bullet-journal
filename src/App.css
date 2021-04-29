@@ -40,7 +40,12 @@ body{
   background-image: url(https://i.pinimg.com/originals/21/c5/5f/21c55ff5dd67da171b9e07165fb1aa43.jpg);
   background-size: cover;
 }
+.navbar-dark .navbar-nav .nav-link {
+  color: black;
+}
 
-.card{
-  background: red;
+body.veggie {
+  background-image: url(https://media.giphy.com/media/WRRL1EKo9rNe12S4zh/giphy.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
