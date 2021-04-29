@@ -40,3 +40,7 @@ body{
   background-image: url(https://i.pinimg.com/originals/21/c5/5f/21c55ff5dd67da171b9e07165fb1aa43.jpg);
   background-size: cover;
 }
+
+.card{
+  background: red;
+}
