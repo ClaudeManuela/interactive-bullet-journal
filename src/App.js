@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import { Navigation, Footer, Home, About, Contact } from "./index";
+import { Navigation, Home, About, Contact } from "./index";
 import "./App.css"
 
 
@@ -15,7 +15,6 @@ const App = () => {
        <Route path="/about" exact component={() => <About />} />
        <Route path="/contact" exact component={() => <Contact />} />
      </Switch>
-     <Footer />
    </Router>
    </div>
   )
